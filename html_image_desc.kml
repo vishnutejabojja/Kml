@@ -3,18 +3,77 @@
     <Document id="1">
         <Style id="4">
             <BalloonStyle>
-                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://portal-uploaded-images.s3.ap-south-1.amazonaws.com/4a7301d5fd21d9c50d3658b2865f2f56.jpg&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0139_W.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/vishnutejabojja/Kml/blob/main/DJI_0140_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0139_W.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="8">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/vishnutejabojja/Kml/blob/main/DJI_0140_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0140_T.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="12">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/vishnutejabojja/Kml/blob/main/DJI_0140_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0141_W.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="16">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/vishnutejabojja/Kml/blob/main/DJI_0140_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0142_T.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="20">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/vishnutejabojja/Kml/blob/main/DJI_0140_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0143_W.JPG&lt;/td&gt;&lt;/tr&gt;</text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
         <Placemark id="3">
-            <name>Solar panel</name>
+            <name>0139</name>
             <description>
-<![CDATA[<img style="max-width:500px;" src="file:///https://m.economictimes.com/thumb/msid-69130611,width-1200,height-900,resizemode-4,imgsize-472342/polycrystalline-solar-panels-cheap-yet-efficient-long-lasting-solar-panels.jpg">]]>            </description>
+<![CDATA[<img style="max-width:500px;" src="https://github.com/vishnutejabojja/Kml/blob/main/DJI_0140_T.JPG">]]>            </description>
             <styleUrl>#4</styleUrl>
             <Point id="2">
-                <coordinates>78.17319822222223,17.056443444444444,0.0</coordinates>
+                <coordinates>78.17312669444445,17.0564405,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="7">
+            <name>0140</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="https://github.com/vishnutejabojja/Kml/blob/main/DJI_0140_T.JPG">]]>            </description>
+            <styleUrl>#8</styleUrl>
+            <Point id="6">
+                <coordinates>78.17312811111111,17.056441222222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>0141</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="file:///https://github.com/vishnutejabojja/Kml/blob/main/DJI_0140_T.JPG">]]>            </description>
+            <styleUrl>#12</styleUrl>
+            <Point id="10">
+                <coordinates>78.17318916666667,17.05644336111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>0141</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="file:///https://github.com/vishnutejabojja/Kml/blob/main/DJI_0140_T.JPG">]]>            </description>
+            <styleUrl>#12</styleUrl>
+            <Point id="10">
+                <coordinates>78.17318916666667,17.05644336111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>0141</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="file:///https://github.com/vishnutejabojja/Kml/blob/main/DJI_0140_T.JPG">]]>            </description>
+            <styleUrl>#12</styleUrl>
+            <Point id="10">
+                <coordinates>78.17318916666667,17.05644336111111,0.0</coordinates>
+
     </Document>
 </kml>
